@@ -1,0 +1,1190 @@
+{ "data": {
+    "AbManager": {
+        "Abilities": [
+            {
+                "Ability": "DoubleDamage"
+            }
+        ]
+    },
+    "CurrentRound": 2,
+    "EField": {
+        "Field": [
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ]
+        ],
+        "Ship": [
+            [
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                2,
+                6,
+                4,
+                1
+            ],
+            [
+                0,
+                2,
+                5,
+                1
+            ],
+            [
+                2,
+                6,
+                5,
+                1
+            ],
+            [
+                3,
+                0,
+                6,
+                1
+            ],
+            [
+                3,
+                0,
+                7,
+                1
+            ],
+            [
+                4,
+                4,
+                7,
+                0
+            ],
+            [
+                4,
+                5,
+                7,
+                0
+            ],
+            [
+                4,
+                6,
+                7,
+                0
+            ],
+            [
+                4,
+                7,
+                7,
+                0
+            ],
+            [
+                3,
+                0,
+                8,
+                1
+            ]
+        ],
+        "height": 11,
+        "width": 11
+    },
+    "EnSManager": {
+        "nums": 5,
+        "sizes": [
+            1,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "PField": {
+        "Field": [
+            [
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": 2,
+                    "status": 2
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 1
+                }
+            ],
+            [
+                {
+                    "health": -1,
+                    "status": 1
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                },
+                {
+                    "health": -1,
+                    "status": 0
+                }
+            ]
+        ],
+        "Ship": [
+            [
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                2,
+                0,
+                1
+            ],
+            [
+                2,
+                4,
+                0,
+                1
+            ],
+            [
+                3,
+                6,
+                0,
+                1
+            ],
+            [
+                4,
+                8,
+                0,
+                1
+            ],
+            [
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                6,
+                1,
+                1
+            ],
+            [
+                4,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                6,
+                2,
+                1
+            ],
+            [
+                4,
+                8,
+                2,
+                1
+            ],
+            [
+                4,
+                8,
+                3,
+                1
+            ]
+        ],
+        "height": 11,
+        "width": 11
+    },
+    "PlSManager": {
+        "nums": 5,
+        "sizes": [
+            1,
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+}, "hash": "4b15804af85ff49d" }

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libShipCombined.a CMakeFiles/ShipCombined.dir/Ship.cpp.o CMakeFiles/ShipCombined.dir/ShipManager.cpp.o
+/usr/bin/ranlib libShipCombined.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGameStates.a CMakeFiles/GameStates.dir/GameEnemyState.cpp.o CMakeFiles/GameStates.dir/GamePlayerState.cpp.o
+/usr/bin/ranlib libGameStates.a

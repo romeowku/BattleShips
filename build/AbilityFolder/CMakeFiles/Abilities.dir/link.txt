@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAbilities.a CMakeFiles/Abilities.dir/DoubleDamage.cpp.o CMakeFiles/Abilities.dir/RandomFire.cpp.o CMakeFiles/Abilities.dir/Scanner.cpp.o
+/usr/bin/ranlib libAbilities.a

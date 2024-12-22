@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAbilityFabric.a CMakeFiles/AbilityFabric.dir/DoubleDamageFactory.cpp.o CMakeFiles/AbilityFabric.dir/RandomFireFactory.cpp.o CMakeFiles/AbilityFabric.dir/ScannerFactory.cpp.o
+/usr/bin/ranlib libAbilityFabric.a

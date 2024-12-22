@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFieldCombined.a CMakeFiles/FieldCombined.dir/Cell.cpp.o CMakeFiles/FieldCombined.dir/GameField.cpp.o
+/usr/bin/ranlib libFieldCombined.a

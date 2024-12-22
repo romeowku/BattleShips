@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHolders.a CMakeFiles/Holders.dir/LogHolder.cpp.o
+/usr/bin/ranlib libHolders.a
